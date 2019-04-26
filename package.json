@@ -1,0 +1,28 @@
+{
+  "name": "hide-some-words",
+  "version": "1.0.0",
+  "description": "Hides some words from a blob of text",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "coverage": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cherouvim/hide-some-words.git"
+  },
+  "keywords": [
+    "text",
+    "words",
+    "processing"
+  ],
+  "author": "Ioannis Cherouvim",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cherouvim/hide-some-words/issues"
+  },
+  "homepage": "https://github.com/cherouvim/hide-some-words#readme",
+  "devDependencies": {
+    "jest": "24.7.1"
+  }
+}
