@@ -9,7 +9,7 @@ Hides some words from a blob of text. For input `foo bar test example` it may re
 
 ## Usage
 ```javascript
-const hideSomeWords = require("./index.js");
+const hideSomeWords = require("hide-some-words");
 
 const text = 
 `Lorem ipsum dolor sit amet, consectetur adipiscing elit.Proin eget erat urna.

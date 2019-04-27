@@ -25,7 +25,7 @@ const wordBoundaryCharacters = " \t\r\n~`!@#$%^&*()_+-=[]{}\\|;':\",./<>?".split
  * Hides some words from the provided text.
  * For input "foo bar test example" it may return "foo bar ___ example".
  *
- * @param {string} [text] - The text to hide some words.
+ * @param {string} [text] - The input text.
  * @param {number} [percentage=0.3] - A percentage between 0.0 to 1.0 which determines the amount
  *                 of (hideable) words to hide.
  * @param {string} [character=_] - The replacement character.
