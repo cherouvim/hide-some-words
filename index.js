@@ -29,7 +29,7 @@ const wordBoundaryCharacters = " \t\r\n~`!@#$%^&*()_+-=[]{}\\|;':\",./<>?".split
  * @param {number} [percentage=0.3] - A percentage between 0.0 to 1.0 which determines the amount
  *                 of (hideable) words to hide.
  * @param {string} [character=_] - The replacement character.
- * @param {number} [skipLength=2] - The length that a word needs to have in order to skip it.
+ * @param {number} [skipLength=2] - The character length up to which words will not be hidden.
  */
 function hideSomeWords(text, percentage = 0.4, character = "_", skipLength = 2) {
   // skip early if necessary

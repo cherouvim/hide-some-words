@@ -33,7 +33,7 @@ vel _________ urna mattis porttitor. _______ ullamcorper eu lectus vitae luctus.
 |text|string| |The input text|
 |percentage|number|0.3|A percentage between 0.0 to 1.0 which determines the amount of (hideable) words to hide|
 |character|string|_|The replacement character|
-|skipLength|number|2|The length that a word needs to have in order to skip it|  
+|skipLength|number|2|The character length up to which words will not be hidden|  
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
