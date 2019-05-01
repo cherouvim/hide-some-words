@@ -1,5 +1,6 @@
 # hide-some-words
 [![npm version](https://img.shields.io/npm/v/hide-some-words.svg?color=0c0)](https://www.npmjs.com/package/hide-some-words)
+[![build size](https://badgen.net/bundlephobia/minzip/hide-some-words?color=0c0)](https://bundlephobia.com/result?p=hide-some-words)
 [![travis](https://img.shields.io/travis/cherouvim/hide-some-words.svg?color=0c0)](https://travis-ci.org/cherouvim/hide-some-words)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?color=0c0)](http://makeapullrequest.com)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?color=0c0)](https://github.com/prettier/prettier)
